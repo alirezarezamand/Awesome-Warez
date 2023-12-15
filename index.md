@@ -16548,7 +16548,7 @@
                     <a href="https://filmha.top/" rel="nofollow">filmha</a> - <em>Movies</em>
                   </li>
                   <li>
-                    <a href="https://hamtamovie.run/" rel="nofollow">HamtaMovie</a> - <em>Movies / TV / Anime</em>
+                    <a href="https://hamtamovie.io/" rel="nofollow">HamtaMovie</a> - <em>Movies / TV / Anime</em>
                   </li>
                   <li>
                     <a href="http://umovie.in/" rel="nofollow">umovie</a> - <em>Movies</em>
